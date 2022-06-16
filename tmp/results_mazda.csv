@@ -1,0 +1,3 @@
+make	fuel_type	num_of_doors	min_price	avg_price	max_price
+mazda	gas	two	5195	7505.0000	10595
+mazda	gas	four	6695	10392.5000	18280

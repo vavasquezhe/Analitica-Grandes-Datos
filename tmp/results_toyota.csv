@@ -1,0 +1,4 @@
+make	fuel_type	num_of_doors	min_price	avg_price	max_price
+toyota	diesel	four	7788	8794.6667	10698
+toyota	gas	four	6488	9024.5714	15690
+toyota	gas	two	5348	10562.0000	17669
